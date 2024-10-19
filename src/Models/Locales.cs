@@ -11,6 +11,7 @@ namespace SourceGit.Models
             new Locale("English", "en_US"),
             new Locale("Deutsch", "de_DE"),
             new Locale("Français", "fr_FR"),
+            new Locale("日本語", "ja_JP"),
             new Locale("Português (Brasil)", "pt_BR"),
             new Locale("Русский", "ru_RU"),
             new Locale("简体中文", "zh_CN"),
